@@ -1,0 +1,3 @@
+C:/Users/10165/Desktop/F4_Clion/cmake-build-stm32_debug/CMakeFiles/CMakeScratch/TryCompile-y8q89l/CMakeFiles/cmTC_8eca7.dir
+C:/Users/10165/Desktop/F4_Clion/cmake-build-stm32_debug/CMakeFiles/CMakeScratch/TryCompile-y8q89l/CMakeFiles/edit_cache.dir
+C:/Users/10165/Desktop/F4_Clion/cmake-build-stm32_debug/CMakeFiles/CMakeScratch/TryCompile-y8q89l/CMakeFiles/rebuild_cache.dir
